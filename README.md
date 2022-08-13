@@ -24,7 +24,7 @@ Requisitos:
 # Fluxo da Aplicação:
 
 
-- Ao iniciar o game na primeiro primeira tela temos uma tela com um botão para clicar e iniciar o jogo.
+- Ao iniciar o game na primeira tela temos um botão para clicar e começar a jogar.
 - A Segunda tela já podemos começar a jogar, a esquerda temos um botão para movimentação e a direita temos um para atacar.
 
 
